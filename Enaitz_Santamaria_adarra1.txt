@@ -1,2 +1,4 @@
 Adarreko lehen fitxategia
 Main adarrean gehitutako lerroa
+Adarrean gehitutako bigarren lerroa
+Adarrean gehitutako hirugarren lerroa
